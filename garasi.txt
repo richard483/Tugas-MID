@@ -1,0 +1,6 @@
+5
+mobil
+100
+motor
+7 becak
+
